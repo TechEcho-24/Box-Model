@@ -1,0 +1,106 @@
+body{
+    font-family: Inter;
+    color: rgb(22, 20, 20);
+}
+
+/*CSS for header*/
+.sm{
+    width: 100px;
+    height: 50px;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+
+.sm, .wah {
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 16px;
+}
+
+
+.wah{
+    margin-top: 28px;
+    float: right;
+    margin-right: 50px;
+    font-size: 18px;
+    word-spacing: 2px;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: rgb(22, 20, 20);
+}
+
+
+.ppp{
+    margin-left: 200px;
+}
+
+
+.ph1{
+    color: black;
+    font-size: 41px;
+}
+
+
+.p1{
+    font-size: 35px;
+    font-weight: lighter;
+}
+
+
+.girl{
+    height: 450px;
+    margin-left: 250px;
+    padding: 20px;
+    max-width: 1100%;
+    width: auto;
+}
+    
+
+.sectdiv1 {
+    display: inline-block;
+    width: 45%;
+   vertical-align: middle;
+}
+
+
+.sectdiv2 {
+    display: inline-block;
+    width: 48%;
+   vertical-align: middle;
+}
+
+
+.section1{
+    margin-bottom: 100px;
+}
+    
+
+.Lyft{
+    width: 35%;
+    height: 400px;
+    margin-right: 100px;
+    border-radius: 20px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.wah2{
+    margin-top: 28px;
+    float: right;
+    margin-right: 100px;
+    font-size: 18px;
+}
+
+
+.in{
+    width: 100px;
+    height: 30px;
+    margin-left: 200px;
+    margin-top: 42px;
+}
