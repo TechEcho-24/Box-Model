@@ -1,0 +1,132 @@
+body{
+    max-width: 800px;
+    margin: 0 auto;
+    word-spacing: 2px;
+    text-align: center;
+}
+
+h1{
+    font-size: 3em;
+    font-weight: 500;
+}
+
+hr{
+    max-width: 40%;
+    margin-bottom: 40px;
+}
+
+.Exercise{
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.ExerciseSubject{
+    font-size: 1.15em;
+    margin: 10px;
+}
+.Exercise1square{
+    max-width: 200px;
+    display: inline-block;
+    background-color: #D9FAD4;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+.ContentCircle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #83AFC1;
+    margin: 20px auto 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.PaddingCircle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #A3C699;
+    margin: 20px auto 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.BorderCircle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: black;
+    margin: 20px auto 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.MarginCircle{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #E1B988;
+    margin: 20px auto 0 auto;
+    display: inline-block;
+    vertical-align: middle;
+}
+.Circle-Para{
+    display: inline-block;
+    margin: 5px;
+    font-size: 1.2em;
+    vertical-align: bottom;
+}
+
+.MainCircleBox{
+    display: inline-block;
+    vertical-align: middle;
+}
+.ChildrenContainer1{
+    width: 180px;
+    height: 100px;
+    margin: 10px;
+    background-color: #cbcbcb;
+    float: left;
+}
+
+.ParentContainer1{
+    display: inline-block;
+    width: 600px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.ChildrenContainer2{
+    width: 180px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
+    float: left;
+    background-color: #CBCBCB;
+}
+
+.ParentContainer2{
+    display: inline-block;
+    width: 600px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.ChildrenContainer3{
+    width: 180px;
+    height: 100px;
+    margin: 10px;
+    border: 1px solid black;
+    background-color: #CBCBCB;
+    box-sizing: border-box;
+    float: left;
+}
+
+.ParentContainer3{
+    display: inline-block;
+    width: 600px;
+    border: 1px solid black;
+    margin: 10px;
+}
